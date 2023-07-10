@@ -1,0 +1,7 @@
+C:\EA_Project\Task01\Task\bin\Debug\Task.exe.config
+C:\EA_Project\Task01\Task\bin\Debug\Task.exe
+C:\EA_Project\Task01\Task\bin\Debug\Task.pdb
+C:\EA_Project\Task01\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\EA_Project\Task01\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\EA_Project\Task01\Task\obj\Debug\Task.exe
+C:\EA_Project\Task01\Task\obj\Debug\Task.pdb
