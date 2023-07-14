@@ -61,5 +61,4 @@ namespace Task01
             Console.ReadKey();
         }
     }
-
 }
