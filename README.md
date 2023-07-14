@@ -1,4 +1,4 @@
-# 3 Task Done 
+*3 Task Done* 
 *Calculator
 *GuessNumber
 *Rock Paper Scissors.
