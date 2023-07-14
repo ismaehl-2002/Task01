@@ -1,2 +1,4 @@
-"# Task01" 
-"# Task01" 
+# 3 Task Done 
+*Calculator
+*GuessNumber
+*Rock Paper Scissors.
